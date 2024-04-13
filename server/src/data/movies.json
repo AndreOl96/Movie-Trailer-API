@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "releaseDate": "2001-11-16",
+    "trailerLink": "https://www.youtube.com/watch?v=eKSB0gXl9dw",
+    "poster": "harry_potter_poster.jpg",
+    "genres": ["Adventure", "Family", "Fantasy"]
+  },
+  {
+    "id": 2,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "releaseDate": "2001-12-19",
+    "trailerLink": "https://www.youtube.com/watch?v=V75dMMIW2B4",
+    "poster": "lord_of_the_rings_poster.jpg",
+    "genres": ["Adventure", "Drama", "Fantasy"]
+  },
+  {
+    "id": 3,
+    "title": "Inception",
+    "releaseDate": "2010-07-16",
+    "trailerLink": "https://www.youtube.com/watch?v=YoHD9XEInc0",
+    "poster": "inception_poster.jpg",
+    "genres": ["Action", "Adventure", "Sci-Fi"]
+  },
+  {
+    "id": 4,
+    "title": "The Dark Knight",
+    "releaseDate": "2008-07-18",
+    "trailerLink": "https://www.youtube.com/watch?v=EXeTwQWrcwY",
+    "poster": "dark_knight_poster.jpg",
+    "genres": ["Action", "Crime", "Drama"]
+  },
+  {
+    "id": 5,
+    "title": "Forrest Gump",
+    "releaseDate": "1994-07-06",
+    "trailerLink": "https://www.youtube.com/watch?v=bLvqoHBptjg",
+    "poster": "forrest_gump_poster.jpg",
+    "genres": ["Drama", "Romance"]
+  },
+  {
+    "id": 6,
+    "title": "The Shawshank Redemption",
+    "releaseDate": "1994-10-14",
+    "trailerLink": "https://www.youtube.com/watch?v=6hB3S9bIaco",
+    "poster": "shawshank_redemption_poster.jpg",
+    "genres": ["Drama"]
+  },
+  {
+    "id": 7,
+    "title": "Pulp Fiction",
+    "releaseDate": "1994-10-14",
+    "trailerLink": "https://www.youtube.com/watch?v=s7EdQ4FqbhY",
+    "poster": "pulp_fiction_poster.jpg",
+    "genres": ["Crime", "Drama"]
+  },
+  {
+    "id": 8,
+    "title": "The Godfather",
+    "releaseDate": "1972-03-24",
+    "trailerLink": "https://www.youtube.com/watch?v=sY1S34973zA",
+    "poster": "godfather_poster.jpg",
+    "genres": ["Crime", "Drama"]
+  },
+  {
+    "id": 9,
+    "title": "The Matrix",
+    "releaseDate": "1999-03-31",
+    "trailerLink": "https://www.youtube.com/watch?v=vKQi3bBA1y8",
+    "poster": "matrix_poster.jpg",
+    "genres": ["Action", "Sci-Fi"]
+  },
+  {
+    "id": 10,
+    "title": "Gladiator",
+    "releaseDate": "2000-05-05",
+    "trailerLink": "https://www.youtube.com/watch?v=owK1qxDselE",
+    "poster": "gladiator_poster.jpg",
+    "genres": ["Action", "Adventure", "Drama"]
+  }
+]
